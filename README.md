@@ -6,6 +6,11 @@ clone the repository and type in
 yarn install
 ```
 
+```shell
+yarn expo start
+```
+
+
 then after that you will run expo using :
 ![delivroo-1](https://github.com/Ham12-3/delivroo-clone-react-native/assets/93613316/ab929fe8-3275-4cff-b462-fe7b0b48bbcd)
 ![delivroo-3](https://github.com/Ham12-3/delivroo-clone-react-native/assets/93613316/b6d2a0bc-3853-4073-8475-875319e79b1a)
@@ -16,6 +21,3 @@ then after that you will run expo using :
 ![delivroo-7](https://github.com/Ham12-3/delivroo-clone-react-native/assets/93613316/b223ea9e-113c-4bf8-bbfb-5a5cd6a20fe9)
 ![delivroo-8](https://github.com/Ham12-3/delivroo-clone-react-native/assets/93613316/4fc2c600-819c-4395-837c-bcd41beccf63)
 
-```shell
-yarn expo start
-```
